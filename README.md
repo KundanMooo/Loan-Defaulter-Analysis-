@@ -18,3 +18,5 @@ Young applicants are more expected to default on a loan.
 
 More Men deafault loans as compared to Women
 
+
+
