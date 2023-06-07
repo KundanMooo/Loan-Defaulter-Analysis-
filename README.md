@@ -39,7 +39,7 @@ Provide specialised financial counselling or educational programs for married pe
 Develop gender-specific financial literacy efforts to address the special obstacles experienced by males in loan repayment. For instance, offering instructional tools or seminars that address typical financial challenges experienced by males, such as managing company finances or dealing with employment uncertainty, might assist increase loan payback rates.
 
 
-- These initiatives aim to reduce the risk of loan default and enhance overall loan portfolio performance by targeting certain client categories and their unique difficulties. By personalising loan products, risk assessment methods, and financial education campaigns, financial institutions may boost customer happiness, reduce default rates, and encourage long-term financial stability.
+## These initiatives aim to reduce the risk of loan default and enhance overall loan portfolio performance by targeting certain client categories and their unique difficulties. By personalising loan products, risk assessment methods, and financial education campaigns, financial institutions may boost customer happiness, reduce default rates, and encourage long-term financial stability.
 
 
 
