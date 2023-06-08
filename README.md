@@ -1,6 +1,6 @@
 # Loan-Default-Analysis-Uncovering-Key-Insights
 Deep dive analysis reveals crucial factors impacting loan defaults, including education level, occupation, income range, family status, annuity amount, age, and gender.
-
+[Loan Default Analysis.pdf](https://github.com/KundanMooo/Loan-Default-Analysis-Uncovering-Key-Insights/files/11684029/Loan.Default.Analysis.pdf)
 # Insights
 ### 1.Lower the highest education of an applicant, higher the chance of loan default. 
  
